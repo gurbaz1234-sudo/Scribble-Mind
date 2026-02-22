@@ -1,0 +1,5 @@
+{
+  "name": "ScribbleMind",
+  "description": "A sophisticated AI-powered canvas that transforms your handwritten scribbles into structured text and geometric shapes using the low-latency Gemini 2.5 Flash Lite model.",
+  "requestFramePermissions": []
+}
